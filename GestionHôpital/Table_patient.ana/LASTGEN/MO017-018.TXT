@@ -1,0 +1,10 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Table_patient		TAR	1075	nouvelle taille enregistrement : 1075
+Table_patient	situationmatrimoniale	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique situationmatrimoniale a pour nouveau type Chaîne
+Table_patient	Poids	CNW	Entier sur 4 octets$Chaîne	la rubrique Poids a pour nouveau type Entier sur 4 octets
+Table_patient	Taille	CNW	Entier sur 4 octets$Chaîne	la rubrique Taille a pour nouveau type Entier sur 4 octets
+Table_patient	Temperature	CNW	Entier sur 4 octets$Chaîne	la rubrique Temperature a pour nouveau type Entier sur 4 octets
+Table_patient	Frequenc_cardiaque	CNW	Entier sur 4 octets$Chaîne	la rubrique Frequenc_cardiaque a pour nouveau type Entier sur 4 octets
+Table_patient	Glycemie	CNW	Entier sur 4 octets$Chaîne	la rubrique Glycemie a pour nouveau type Entier sur 4 octets
+Table_patient	Pression_Arterielle	CNW	Entier sur 4 octets$Chaîne	la rubrique Pression_Arterielle a pour nouveau type Entier sur 4 octets
+Table_patient	Situationfamialle	RUB+		Situationfamialle est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Table_Personnel		TAR	319	nouvelle taille enregistrement : 319
+Table_Personnel	Adresse	RUB+		Adresse est une nouvelle rubrique

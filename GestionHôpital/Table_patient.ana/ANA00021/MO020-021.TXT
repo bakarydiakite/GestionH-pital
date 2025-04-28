@@ -1,0 +1,4 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Table_RDV		TAR	155	nouvelle taille enregistrement : 155
+Table_RDV	heure_debut	RUB+		heure_debut est une nouvelle rubrique
+Table_RDV	heure_fin	RUB+		heure_fin est une nouvelle rubrique

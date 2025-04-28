@@ -1,0 +1,9 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Table_patient		TAR	949	nouvelle taille enregistrement : 949
+Table_patient	GroupeSanguin	CLEN*		la rubrique GroupeSanguin est maintenant une clé
+Table_patient	Assurance	CLEN*		la rubrique Assurance est maintenant une clé
+Table_patient	antecedentmedicaux	NNR	antecedent	ATTENTION : la clé antecedent a pour nouveau nom antecedentmedicaux
+Table_patient	antecedentmedicaux	CLEN*		la rubrique antecedentmedicaux est maintenant une clé
+Table_patient	autreantecedent	RUB+		autreantecedent est une nouvelle clé
+Table_patient	situationmatrimoniale	RUB+		situationmatrimoniale est une nouvelle clé
+Table_patient	profession	RUB+		profession est une nouvelle clé

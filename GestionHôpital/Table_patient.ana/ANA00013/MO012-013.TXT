@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Table_patient		TAR	546	nouvelle taille enregistrement : 546
+Table_patient	antecedent	RUB+		antecedent est une nouvelle rubrique

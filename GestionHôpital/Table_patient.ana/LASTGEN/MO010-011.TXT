@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+table_ordonnace		NFI		nouveau fichier
+Contrainte_Table_Consultation_Table_Prescription		NWL	Table_Consultation (IDTable_Consultation) et Table_Prescription (IDTable_Consultation)	Nouvelle liaison entre les fichiers Table_Consultation (IDTable_Consultation) et Table_Prescription (IDTable_Consultation)
+Contrainte_Table_Consultation_Table_Prescription		DEL	Table_Consultation (IDTable_Consultation) et Table_Prescription (IDTable_Consultation)	Liaison supprimée entre les fichiers Table_Consultation (IDTable_Consultation) et Table_Prescription (IDTable_Consultation)

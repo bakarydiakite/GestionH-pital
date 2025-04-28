@@ -1,0 +1,17 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=C	;Analysis GUID
+LOCALIZATION_UTF8=732A92BF34A04BB4B0AC3AB3A304517E	Table_patient	C:\Mes Projets\GestionHôpital\Exe\Table_patient.fic
+LOCALIZATION_UTF8=2BC5869088AD4560910B6BB77C225291	Table_Consultation	C:\Mes Projets\GestionHôpital\Exe\Table_Consultation.fic
+LOCALIZATION_UTF8=E46D46AF22B34D1E9A94982F11FB43D8	Table_RDV	C:\Mes Projets\GestionHôpital\Exe\Table_RDV.fic
+LOCALIZATION_UTF8=6B3E571F873F4B719F671A9E40EA1E3E	Table_Hospitalisation	C:\Mes Projets\GestionHôpital\Exe\Table_Hospitalisation.fic
+LOCALIZATION_UTF8=6277A149317B4259AFBEA48293367933	Table_Facture	C:\Mes Projets\GestionHôpital\Exe\Table_Facture.fic
+LOCALIZATION_UTF8=2719CFAA29474C7FB87802882C12D16A	Table_Prescription	C:\Mes Projets\GestionHôpital\Exe\Table_Prescription.fic
+LOCALIZATION_UTF8=5CD72B8540E44BD4A00C6E71D49C3F2E	Table_Medicament	C:\Mes Projets\GestionHôpital\Exe\Table_Medicament.fic
+LOCALIZATION_UTF8=2AAEC3DC4519413689EE708787EC11F3	Table_Personnel	C:\Mes Projets\GestionHôpital\Exe\Table_Personnel.fic
+LOCALIZATION_UTF8=6D38C4CAEFDA449BACD339AC3519D021	Table_Plannig	C:\Mes Projets\GestionHôpital\Exe\Table_Plannig.fic
+LOCALIZATION_UTF8=AE9764BD9D35469091582B36C2B96920	Table_Chambre	C:\Mes Projets\GestionHôpital\Exe\Table_Chambre.fic
+LOCALIZATION_UTF8=894EC16AA2CD4493A9DCF39615E983E4	Table_Service	C:\Mes Projets\GestionHôpital\Exe\Table_Service.fic
+LOCALIZATION_UTF8=28C960D2354C498DA322179F2288605B	Table_detail_facture	C:\Mes Projets\GestionHôpital\Exe\Table_detail_facture.fic
+LOCALIZATION_UTF8=BF1A147B2463498D9C0D57CCD1BE97E8	table_ordonnace	C:\Mes Projets\GestionHôpital\Exe\table_ordonnace.fic
+LOCALIZATION_UTF8=540F11B59ACB4F83A902673D54747E1C	Table_Rapport	C:\Mes Projets\GestionHôpital\Exe\Table_Rapport.fic

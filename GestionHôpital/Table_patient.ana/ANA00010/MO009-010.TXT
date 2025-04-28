@@ -1,0 +1,10 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Table_Consultation		TAR	419	nouvelle taille enregistrement : 419
+Table_Consultation	Date	CLEN*		la rubrique Date est maintenant une clé
+Table_Consultation	Diagnostic	CLEN*		la rubrique Diagnostic est maintenant une clé
+Table_Consultation	Traitement	CLEN*		la rubrique Traitement est maintenant une clé
+Table_Consultation	Observation	CLEN*		la rubrique Observation est maintenant une clé
+Table_Consultation	Motif	RUB+		Motif est une nouvelle clé
+Table_Consultation	Montant	RUB+		Montant est une nouvelle clé
+Table_Consultation	verseement	RUB+		verseement est une nouvelle clé
+Table_Consultation	reste	RUB+		reste est une nouvelle clé

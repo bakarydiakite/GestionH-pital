@@ -1,0 +1,5 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Table_patient	Nom	RDP-		
+Table_patient	Prénom	RDP-		
+Table_patient	Téléphone	RDP-		
+Table_patient	Email	RDP-		

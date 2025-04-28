@@ -1,0 +1,2 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Table_RDV	DateHeure	CNW	Date et Heure (aaaammjjhhmmssccc)$Entier sur 8 octets	la rubrique DateHeure a pour nouveau type Date et Heure (aaaammjjhhmmssc

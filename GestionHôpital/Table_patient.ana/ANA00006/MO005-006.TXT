@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+utilisateur		TAR	207	nouvelle taille enregistrement : 207
+utilisateur	photo	RUB+		photo est une nouvelle rubrique

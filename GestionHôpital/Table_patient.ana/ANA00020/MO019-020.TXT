@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Table_RDV		TAR	144	nouvelle taille enregistrement : 144
+Table_RDV	DateHeure	CNW	Date (aaaammjj)$Date et Heure (aaaammjjhhmmssccc)	la rubrique DateHeure a pour nouveau type Date (aaaammjj)

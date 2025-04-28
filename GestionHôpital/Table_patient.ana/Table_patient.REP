@@ -1,0 +1,8 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=C	;Analysis GUID
+LOCALIZATION_UTF8=732A92BF34A04BB4B0AC3AB3A304517E	Table_patient	C:\Mes Projets\GestionHôpital\EXE\Table_patient.fic
+LOCALIZATION_UTF8=2BC5869088AD4560910B6BB77C225291	Table_Consultation	C:\Mes Projets\GestionHôpital\EXE\Table_Consultation.fic
+LOCALIZATION_UTF8=D40369D1815C4B71A034570CEBA352F7	utilisateur	C:\Mes Projets\GestionHôpital\Inscription.fic
+LOCALIZATION_UTF8=E46D46AF22B34D1E9A94982F11FB43D8	Table_RDV	C:\Mes Projets\GestionHôpital\EXE\Table_RDV.fic
+LOCALIZATION_UTF8=D40369D1815C4B71A034570CEBA352F7	utilisateur	C:\Mes Projets\GestionHôpital\EXE\Inscription.fic

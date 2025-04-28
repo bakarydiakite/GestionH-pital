@@ -1,0 +1,2 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+utilisateur	Nom	NNR	Nomutiisateur	ATTENTION : la clé Nomutiisateur a pour nouveau nom Nom

@@ -1,0 +1,8 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Table_patient		TAR	1256	nouvelle taille enregistrement : 1256
+Table_patient	Poids	RUB+		Poids est une nouvelle rubrique
+Table_patient	Taille	RUB+		Taille est une nouvelle rubrique
+Table_patient	Temperature	RUB+		Temperature est une nouvelle rubrique
+Table_patient	Frequenc_cardiaque	RUB+		Frequenc_cardiaque est une nouvelle rubrique
+Table_patient	Glycemie	RUB+		Glycemie est une nouvelle rubrique
+Table_patient	Pression_Arterielle	RUB+		Pression_Arterielle est une nouvelle rubrique
